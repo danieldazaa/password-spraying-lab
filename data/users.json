@@ -1,0 +1,22 @@
+[
+  {
+    "username": "admin",
+    "passwordHash": "$2b$10$9hU/TXcaIfeX9eYfTmsOA.Uwu7YsBtdenhJlTTE1WlfgPGEGz1f.C"
+  },
+  {
+    "username": "analista",
+    "passwordHash": "$2b$10$6FjYhjWwyzPr0D84ttorBuSxhUViAkfKufLrQFOyGZF/G83VSxaXG"
+  },
+  {
+    "username": "soporte",
+    "passwordHash": "$2b$10$PfKUrW8ulhvp5o9pUuTiCuXreaXJwubB0.n7acSS5SZE5Bs4.VJfq"
+  },
+  {
+    "username": "desarrollador",
+    "passwordHash": "$2b$10$yjU2M6L6MHSD6MN5mGU34OG8fLgVNmX72gGfSb5BuNBVASeku5b4a"
+  },
+  {
+    "username": "operador",
+    "passwordHash": "$2b$10$DXXZswtQIkbCkCdZdSunJOEdA2/gRc2TIGetTDmlVn3zGKUqeCGiy"
+  }
+]

@@ -1,0 +1,20 @@
+
+{
+  "name": "password-spraying-lab",
+  "version": "1.0.0",
+  "description": "Laboratorio SIEM/SOAR - Password Spraying",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "generate-users": "node scripts/generate-users.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.3.0"
+  }
+}
